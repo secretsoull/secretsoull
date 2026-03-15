@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKsWbE4B2OQ4AOA/giphy.gif" width="600" alt="Jet GIF">
+  <img src="https://media.tenor.com/2Xy17O3xSXYAAAAC/f35-fighter-jet.gif" width="600" alt="F35 Fighter Jet">
   
   <h1>Merhaba, Ben Muhammed Ali 👋</h1>
   <p><i>Gökyüzü Tutkunu | Görüntü İşleme | KTÜ SARGE</i></p>
