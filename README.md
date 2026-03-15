@@ -78,7 +78,7 @@ My work sits at the intersection of embedded AI, real-time image processing, and
 
 </div>
 
-### 🎯 Kamikaze UAV Target Detection System
+### 🎯 UAV Target Detection System
 > AI-based target detection system designed for UAV applications. Focuses on real-time recognition and classification of ground targets using deep learning models optimized for low-latency deployment.
 
 ### ⚡ Real-Time Object Detection with Jetson Orin
